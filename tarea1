@@ -4,12 +4,11 @@
 </head>
 
 <body>
-    <div>
-        <h1>Este es mi primer comentario de dos lineas</h1>
-    </div>
-    <div>
-        <h1>Aprendiendo a documentar mi codigo con OpenBootcamp</h1>
-    </div>
+   <!--
+            Este es mi primer comentario de dos líneas
+            Aprendiendo a documentar mi código con OpenBootcamp
+        
+   -->
 
     <div> 
         <h2> Esta es mi lista de mis 3 videos favoritos en Youtube.</h2>
